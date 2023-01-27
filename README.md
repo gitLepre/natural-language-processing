@@ -1,2 +1,3 @@
 # natural-language-processing
-Real or Not? NLP with Disaster Tweets
+
+The project contains a possible solution for the Kaggle challange described at this [link](https://www.kaggle.com/competitions/nlp-getting-started).
